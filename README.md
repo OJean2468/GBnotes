@@ -1,8 +1,8 @@
 # GBnotes - Introduction to Data Management
 # Number row characters
 - ! - exclamation mark
-- @ - at sign
-- \# - Hastag
+- @ - at sign / address sign 
+- \# - Hastag / hash sign 
 - $ - Dollar sign 
 - % - Percentage 
 - ^ - Exponent / caret 
