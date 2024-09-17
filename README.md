@@ -1,1 +1,1 @@
-# GBnotes
+# GBnotes - Introduction to Data Management
