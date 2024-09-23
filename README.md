@@ -16,3 +16,13 @@
 [Github For Dummies](https://www.youtube.com/watch?v=mJ-qvsxPHpY&ab_channel=NickWhite)
 # Experiments
 :point_right: 👍
+## Keyboard Shortcuts
+Shortcuts I frequently use: 
+- Ctrl-C (Copy)
+- Ctrl-V (Paste)
+- ctrl-A (Select all)
+
+Shortcuts I would like to start using:
+- Alt + Tab (Switch between open programs in windows)
+- Ctrl + Y (Undo)
+- Ctrl + F (Find)
