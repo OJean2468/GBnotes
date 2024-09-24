@@ -31,4 +31,4 @@ Shortcuts I would like to start using:
 ---
 Screenshots: 
 
-[Screenshot #1](https://imgur.com/a/tQFSudM) [screenshot #2](https://imgur.com/a/Vylwaba)
+[Screenshot #1](https://imgur.com/a/y4j4r1B) [screenshot #2](https://i.imgur.com/6BHx0At.png)
