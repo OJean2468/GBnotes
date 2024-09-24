@@ -26,3 +26,9 @@ Shortcuts I would like to start using:
 - Alt + Tab (Switch between open programs in windows)
 - Ctrl + Y (Undo)
 - Ctrl + F (Find)
+
+
+---
+Screenshots: 
+
+[Screenshot #1](https://imgur.com/a/tQFSudM) [screenshot #2](https://imgur.com/a/Vylwaba)

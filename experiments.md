@@ -16,6 +16,3 @@ linear
 ```
 
 --- 
-Screenshots: 
-
-[Screenshot #1](https://imgur.com/a/tQFSudM) [screenshot #2](https://imgur.com/a/Vylwaba)
