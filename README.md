@@ -32,3 +32,7 @@ Shortcuts I would like to start using:
 Screenshots: 
 
 [Screenshot #1](https://i.imgur.com/hZ1fLv4.png) [screenshot #2](https://i.imgur.com/6BHx0At.png)
+
+# Datamgmt
+
+another command [CLI commands](Docs/cli.md)
